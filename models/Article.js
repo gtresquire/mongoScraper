@@ -3,7 +3,7 @@ var mongoose = require("mongoose");
 // Save reference to Schema constructor
 var Schema = mongoose.Schema;
 
-// Using the Schema constructor, create a new UserSchema object - similar to a Sequelize model
+// Create a new UserSchema object 
 var ArticleSchema = new Schema({
   // `headline` is required, and of type String
   headline: {

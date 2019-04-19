@@ -5,7 +5,8 @@ html {
   
   body {
     margin-bottom: 80px;
-    background-image: url("../images/paper.png");
+    background-image: url("../images/paper.jpg");
+    width: 100%;
   }
   
   .card a:not([href]):not([tabindex]).scrape-new {
@@ -47,7 +48,7 @@ html {
   
   .jumbotron .background-image {
     height: 100%;
-    background-image: url("../images/newspaper.jpg");
+    background-image: url("../images/nytimescoffee.jpg");
     background-size: cover;
   }
   
@@ -141,7 +142,7 @@ html {
   }
   
   .navbar-nav > li > a.scrape-new:active {
-    background: #e51c23;
+    background: #e5a51c;
   }
   
   .scrape-new {
