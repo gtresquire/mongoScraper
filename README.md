@@ -2,7 +2,7 @@
 
 ## Installation
 
-Clone the repo to a directory on your local driv.  Run `npm install`. The package.json will install the required modules to run the program.
+Clone the repo to a directory on your local drive.  Run `npm install`. The package.json will install modules needed to run the program.
 
 ## What the app does
 
