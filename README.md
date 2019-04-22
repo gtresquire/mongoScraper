@@ -18,4 +18,5 @@ Clone the repo to a directory on your local driv.  Run `npm install`. The packag
   
   ## Demo
   
-  ![](/gtresquire/mongoScraper/public/assets/video/scraper.gif)
+  ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+  ![demo video](https://github.com/gtresquire/mongoScraper/public/assets/video/scraper.gif "Demo")
