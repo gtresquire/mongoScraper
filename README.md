@@ -18,4 +18,4 @@ Clone the repo to a directory on your local driv.  Run `npm install`. The packag
   
   ## Demo
   
-  ![](mongoScraper/public/assets/video/scraper.gif)
+  ![](/gtresquire/mongoScraper/public/assets/video/scraper.gif)
