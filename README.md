@@ -17,6 +17,5 @@ Clone the repo to a directory on your local driv.  Run `npm install`. The packag
   2. Users can leave comments on the articles displayed and revisit them later. Comments are saved to the database as well and associated with their articles. Users can delete comments left on articles. All stored comments are visible to every user.
   
   ## Demo
-  
-  ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+ 
   ![demo video](https://github.com/gtresquire/mongoScraper/blob/master/public/assets/video/scraper.gif "Demo")
